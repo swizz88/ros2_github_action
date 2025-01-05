@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/hieunguyen/ros2_ws/install/turtlebot3_gazebo/include/**",
+        "/home/hieunguyen/ros2_ws/install/turtlebot3_fake_node/include/**",
+        "/home/hieunguyen/ros2_ws/install/docking_v_shape/include/**",
+        "/home/hieunguyen/ros2_ws/install/lidar_auto_docking_messages/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/hieunguyen/ros2_ws/src/cpp_parameters/include/**",
+        "/home/hieunguyen/ros2_ws/src/cpp_pubsub/include/**",
+        "/home/hieunguyen/ros2_ws/src/cpp_srvcli/include/**",
+        "/home/hieunguyen/ros2_ws/src/docking_v_shape/include/**",
+        "/home/hieunguyen/ros2_ws/src/learning_tf2_cpp/include/**",
+        "/home/hieunguyen/ros2_ws/src/turtlebot3/turtlebot3_node/include/**",
+        "/home/hieunguyen/ros2_ws/src/turtlebot3_simulations/turtlebot3_fake_node/include/**",
+        "/home/hieunguyen/ros2_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/hieunguyen/ros2_ws/src/turtlesim_ex/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

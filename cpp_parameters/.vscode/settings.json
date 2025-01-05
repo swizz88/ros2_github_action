@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/hieunguyen/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/hieunguyen/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/hieunguyen/ros2_ws/install/docking_v_shape/local/lib/python3.10/dist-packages",
+        "/home/hieunguyen/ros2_ws/install/lidar_auto_docking_messages/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/hieunguyen/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/hieunguyen/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/hieunguyen/ros2_ws/install/docking_v_shape/local/lib/python3.10/dist-packages",
+        "/home/hieunguyen/ros2_ws/install/lidar_auto_docking_messages/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
